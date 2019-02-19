@@ -1,6 +1,10 @@
 #pragma once
 // header file for Mortgage class
 
+
+//======================================================
+// mortgage: class that holds all of the functions and data associated with a mortgage
+//====================================================== 
 class mortgage
 {
 private:
